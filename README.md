@@ -36,7 +36,8 @@ O programa exibe uma janela com um botão. Quando o botão é clicado, uma mensa
 ## 👤 Créditos do Aluno
 
 - Nome: Kawan da Costa Mariano 
-- Curso: Programador de Sistema 
+- Curso: Programador de Sistema
+- Instituição: Senai
 - Data: 04 Julho de 2025
 
 
