@@ -1,22 +1,24 @@
-# 🐍 Projeto: Botão Interativo com Tkinter
+# 🐍 Projeto:  Cadastro de Nomes com Tkinter + SQLite
 
 ## 📌 Descrição
 
-Este é um projeto simples desenvolvido em Python utilizando a biblioteca **Tkinter**, que serve para criar interfaces gráficas.  
-O programa exibe uma janela com um botão. Quando o botão é clicado, uma mensagem aparece no console:  
-`Você clicou no botão!`
+Este projeto tem como propósito criar uma aplicação gráfica simples para cadastrar nomes utilizando a biblioteca Tkinter como interface e SQLite como banco de dados local. Ele foi desenvolvido para fins didáticos, experimentação com GUIs em Python ou como base para projetos maiores com persistência de dados.
 
-É um ótimo exemplo introdutório para quem está começando a aprender Python e quer explorar o mundo do desenvolvimento de interfaces gráficas (GUI).
+Funcionalidades disponíveis:
 
+- ✅ Cadastro de nomes via interface gráfica
+- 📦 Armazenamento automático e persistente com SQLite
+- 🧠 Design modular com separação entre GUI e lógica de banco de dados
+- 👁️ Feedback visual ao usuário após salvar um nome
 ---
 
 ## 🎯 Objetivo
 
-- Apresentar o uso básico da biblioteca **Tkinter**
-- Criar uma janela com título e tamanho fixo
-- Adicionar um botão funcional que executa uma ação
-- Ensinar conceitos como: funções, eventos, widgets, e a função `mainloop()`
-
+- Demonstrar como criar uma aplicação de cadastro de nomes com interface gráfica usando Tkinter
+- Ensinar como integrar uma interface gráfica com um banco de dados SQLite
+- Apresentar os princípios da persistência de dados em aplicações Python
+- Estimular boas práticas como a separação entre interface e lógica de banco de dados
+- Servir como base para projetos maiores que utilizem formulários e armazenamento local
 ---
 
 ## 🧰 Tecnologias Utilizadas
